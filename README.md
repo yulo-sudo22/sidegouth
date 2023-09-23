@@ -24,4 +24,4 @@ def projetos():
 
 |Projetos|Membros|
 -------------------
-sick1e   |onitsux
+|sick1e   |@onitsux|
