@@ -1,23 +1,10 @@
-                                                  
-      .:okOOOkdc'           'cdkOOOko:.
-    .xOOOOOOOOOOOOc       cOOOOOOOOOOOOx.
-   :OOOOOOOOOOOOOOOk,   ,kOOOOOOOOOOOOOOO:
-  'OOOOOOOOOkkkkOOOOO: :OOOOOOOOOOOOOOOOOO'
-  oOOOOOOOO.    .oOOOOoOOOOl.    ,OOOOOOOOo
-  dOOOOOOOO.      .cOOOOOc.      ,OOOOOOOOx
-  lOOOOOOOO.         ;d;         ,OOOOOOOOl
-  .OOOOOOOO.   .;           ;    ,OOOOOOOO.
-   cOOOOOOO.   .OOc.     'oOO.   ,OOOOOOOc
-    oOOOOOO.   .OOOO.   :OOOO.   ,OOOOOOo
-     lOOOOO.   .OOOO.   :OOOO.   ,OOOOOl
-      ;OOOO'   .OOOO.   :OOOO.   ;OOOO;
-       .dOOo   .OOOOocccxOOOO.   xOOd.
-         ,kOl  .OOOOOOOOOOOOO. .dOk,
-           :kk;.OOOOOOOOOOOOO.cOk:
-             ;kOOOOOOOOOOOOOOOk:
-               ,xOOOOOOOOOOOx,
-                 .lOOOOOOOl.
-                    ,dOd,
-                      .
+# Hi, I am sidegouth_
+```python
+def projetos():
+  print("Hi, I'm sidegouth_, I came from nothing and I just want to do something cool these days so I'm going to do projects that I really enjoy doing, software development is my area and I use Linux a lot, my project includes my friend @onitsux, we are responsible for all the projects we create, I hope you like it!!!")
 
-Linux User ;)))))))))
+
+
+|Projetos|Membros|
+-------------------
+sick1e   |onitsux
