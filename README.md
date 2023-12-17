@@ -1,1 +1,1 @@
-fuck off stalker 🎩
+fuck off stalker 
