@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/sidegouth/">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sidegouth&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidegouth&layout=compact&langs_count=140&theme=dark">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidegouth&layout=compact&langs_count=100&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
