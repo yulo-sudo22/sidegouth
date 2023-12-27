@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+Friend..;Nice+to+meet+you+!" alt="Typing SVG" /></a>
 <div>
   <a href="https://github.com/sidegouth/">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sidegouth&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sidegouth&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"><br>
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidegouth&layout=compact&langs_count=100&theme=dark">
 </div>
 
